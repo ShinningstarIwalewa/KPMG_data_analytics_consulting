@@ -1,0 +1,1 @@
+This folder contains the power bi dashboard and all other files to be presented to clients in an hypothetical situation.
